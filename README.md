@@ -1,11 +1,31 @@
-Just a cool addon that lets you, by hovering a link and pressing the hotkey (currently ctrl + b), to open directly your local environment!
+# _Redirect to local dev environment_
 
-Features that will be coming in the next version:
+### **About this plugin**
+
+Just a cool addon that lets you, by hovering a link and pressing the hotkey (**currently ctrl + b**), to open your local environment with the url path!
+
+### **Installation guide**
+
+Guide will follow soon...
+
+### **Feature ideas for version 2.0**
+
 - better UI design
 - customize hotkey
-- add http parameter to the request (e.g. ?debug=true)
-- export settings
+- add custom http query or/and fragments to the request (e.g. `?debug=true` or `#top`)
+- export settings to file (or sync it to cloud?)
 - help site
+
+#### future ideas:
+
+- bringing this plugin to the Chrome Web Store
+- porting this plugin to other browsers than Chrome
+
 
 Feel free to create an issue for new feature ideas or if you want, you can also create a PR with your features/optimisations!
 
+### **Project Screenshots and real life examples**
+
+![popup.png](README-Files/popup.png)
+
+more examples will follow
