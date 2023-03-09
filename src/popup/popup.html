@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <title>Redirect to Local Dev</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+<label for="fromUrl">From URL</label>
+<input type="text" id="fromUrl" class="roundedCorners" placeholder="https://production.com/">
+
+<br>
+
+<label for="toUrl">To URL</label>
+<input type="text" id="toUrl" class="roundedCorners" placeholder="http://localhost:3000/">
+
+<button id="save" class="roundedCorners">
+    Save
+</button>
+
+<div id="success" style="display: none;">
+    Successfully saved
+</div>
+
+</body>
+<script type="text/javascript" src="popup.js"></script>
+</html>
