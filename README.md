@@ -2,11 +2,20 @@
 
 ### **About this plugin**
 
-Just a cool addon that lets you, by hovering a link and pressing the hotkey (**currently ctrl + b**), to open your local environment with the url path!
+Just a cool addon that lets you, by hovering a link and pressing the hotkey (**currently ctrl + b**), to open your local dev environment with the url path!
+
+
+### **Project screenshots and real life examples**
+
+![popup.png](README-Files/popup.png)
+
+more examples will follow
+
 
 ### **Installation guide**
 
 Guide will follow soon...
+
 
 ### **Feature ideas for version 2.0**
 
@@ -23,9 +32,3 @@ Guide will follow soon...
 
 
 Feel free to create an issue for new feature ideas or if you want, you can also create a PR with your features/optimisations!
-
-### **Project Screenshots and real life examples**
-
-![popup.png](README-Files/popup.png)
-
-more examples will follow
