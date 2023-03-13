@@ -16,10 +16,10 @@ Guide will follow soon...
 - export settings to file (or sync it to cloud?)
 - help site
 
-#### future ideas:
+#### other future ideas:
 
 - bringing this plugin to the Chrome Web Store
-- porting this plugin to other browsers than Chrome
+- port this plugin to other browsers to Firefox
 
 
 Feel free to create an issue for new feature ideas or if you want, you can also create a PR with your features/optimisations!
